@@ -1,0 +1,163 @@
+﻿order_id,order_date,customer_id,city,category,product,quantity,unit_price_eur,discount_pct,total_eur,status,delivery_date,rating,payment_method
+ORD-1001,2026-05-10,C148,Sevilla,Clothing,Jeans,1,49.00,15,41.65,Delivered,2026-05-13,2,Card
+ORD-1002,2026-01-14,C175,Mataró,Home,Lamp,1,32.00,20,25.60,Delivered,2026-01-19,3,Cash
+ORD-1003,2026-03-24,C133, barcelona ,Clothing,Jacket,1,89.00,0,89.00,Returned,2026-03-30,,Cash
+ORD-1004,2026-03-06,C112,Madrid,Clothing,T-shirt,1,18.50,0,18.50,Returned,2026-03-07,,Bank transfer
+ORD-1005,2026-04-16,C120,Madrid,Electronics,Mouse,2,24.00,20,38.40,Delivered,2026-04-18,5,Card
+ORD-1006,2026-05-24,C135,Valencia,Home,Lamp,1,32.00,0,32.00,Delivered,2026-05-25,3,Cash
+ORD-1007,2026-01-27,C176,BARCELONA,Clothing,T-shirt,2,18.50,0,37.00,Delivered,2026-01-29,2,Card
+ORD-1008,2026-02-05,C183,Sevilla,Beauty,Shampoo,1,9.50,10,8.55,Delivered,2026-02-06,5,Cash
+ORD-1009,2026-05-25,C171,Madrid,Beauty,Face cream,4,21.00,0,84.00,Delivered,2026-05-26,4,Card
+ORD-1010,2026-01-14,C132,Sevilla,Electronics,Mouse,1,24.00,0,24.00,Returned,2026-01-19,,Card
+ORD-1011,2026-01-06,C160,,Clothing,Jacket,1,89.00,20,71.20,Returned,2026-01-08,,Cash
+ORD-1012,2026-05-19,C103,Mataró,Beauty,Shampoo,1,9.50,15,8.07,Delivered,2026-05-22,4,Bank transfer
+ORD-1013,2026-02-16,C103,Madrid,Clothing,Jeans,1,49.00,0,49.00,Returned,2026-02-22,,Card
+ORD-1014,2026-05-22,C163,Barcelona,Electronics,Headphones,1,65.00,15,55.25,Returned,2026-05-23,,Bank transfer
+ORD-1015,2026-05-13,C147,Barcelona,Electronics,Mouse,1,24.00,0,24.00,Delivered,2026-05-19,5,Bank transfer
+ORD-1016,2026-01-31,C160,N/A,Beauty,Face cream,2,21.00,0,42.00,Delivered,2026-02-07,,Bank transfer
+ORD-1017,2026-04-13,C119,Barcelona,Clothing,Jeans,1,49.00,15,41.65,Delivered,2026-04-14,3,Card
+ORD-1018,2026-02-06,C178,Sevilla,Home,Mug,1,12.50,0,12.50,Delivered,2026-02-13,3,Card
+ORD-1019,2026-04-05,C115,Sevilla,clothing,T-shirt,1,18.50,15,15.72,Delivered,2026-04-12,2,Bank transfer
+ORD-1020,2026-04-20,C163,Mataró,Clothing,T-shirt,3,18.50,20,44.40,Delivered,2026-04-23,2,Card
+ORD-1021,2026-01-23,C103,Valencia,Home,Mug,2,12.50,15,21.25,Delivered,2026-01-24,3,Card
+ORD-1022,2026-01-25,C173,Barcelona,Electronics ,Lamp,1,32.00,20,25.60,Delivered,2026-02-01,5,Cash
+ORD-1023,2026-01-30,C128,Madrid,Home,Mug,2,12.50,0,25.00,Cancelled,,,Cash
+ORD-1024,2026-05-07,C136,Sevilla,Clothing,T-shirt,2,18.50,15,31.45,Delivered,2026-05-14,2,Bank transfer
+ORD-1025,2026-01-08,C160,Barcelona,Clothing,Jeans,3,49.00,0,147.00,delivered,2026-01-16,,Cash
+ORD-1026,2026-01-04,C124,Sevilla,Electronics,Mouse,1,24.00,20,19.20,Cancelled,,,Cash
+ORD-1027,2026-01-24,C137,Sevilla,Home,Mug,1,12.50,15,10.62,Delivered,2026-01-29,3,Card
+ORD-1028,2026-03-14,C101,Madrid,Clothing,Jacket,2,89.00,15,151.30,Delivered,2026-03-20,2,card 
+ORD-1029,2026-03-01,C114,Madrid,Clothing,T-shirt,3,18.50,10,49.95,Delivered,2026-03-05,2,Card
+ORD-1030,2026-02-04,C126,Barcelona,Clothing,T-shirt,2,18.50,15,31.45,Delivered,2026-02-08,3,Bank transfer
+ORD-1031,2026-04-17,C157,Mataró,Electronics,Mouse,3,24.00,0,72.00,Delivered,2026-04-20,5,Card
+ORD-1032,2026-05-26,C167,Mataró,Beauty,Shampoo,,9.50,15,16.15,Delivered,2026-06-01,2,Bank transfer
+ORD-1033,2026-03-27,C179,Sevilla,Beauty,Shampoo,1,9.50,15,8.07,Delivered,2026-03-30,4,Cash
+ORD-1034,2026-03-06,C122,Valencia,Electronics,Mouse,1,24.00,20,19.20,Delivered,2026-03-12,3,Bank transfer
+ORD-1035,2026-01-03,C118,Valencia,Home,Mug,4,12.50,20,40.00,Delivered,2026-01-08,3,Card
+ORD-1036,2026-04-23,C185,Barcelona,Home,Lamp,2,32.00,0,64.00,Cancelled,,,Bank transfer
+ORD-1037,2026-01-23,C179,Barcelona,Clothing,Jacket,-2,89.00,20,71.20,Cancelled,,,Cash
+ORD-1038,2026-02-25,C132,Barcelona,Clothing,Jeans,1,49.00,0,49.00,Cancelled,,,Cash
+ORD-1039,2026-04-11,C117,Barcelona,Electronics,Mouse,1,24.00,0,24.00,Cancelled,,,Bank transfer
+ORD-1040,2026-01-25,C183,Sevilla,Clothing,Jeans,1,49.00,0,49.00,Delivered,2026-01-29,4,Cash
+ORD-1041,2026-05-13,C154,Valencia,Electronics,Headphones,0,65.00,20,52.00,Delivered,2026-05-15,4,Bank transfer
+ORD-1042,2026-04-17,C182,Madrid,Electronics,Headphones,1,65.00,10,58.50,Delivered,2026-04-18,2,Cash
+ORD-1043,2026-05-18,C123,Madrid,Home,Lamp,1,32.00,0,32.00,Delivered,2026-05-26,5,Card
+ORD-1044,2026-04-30,C130,Mataró,Home,Lamp,2,32.00,20,51.20,Returned,2026-05-08,,Bank transfer
+ORD-1045,2026-04-26,C122,Mataró,Electronics,Mouse,1,24.00,20,19.20,Delivered,2026-05-04,2,Cash
+ORD-1046,2026-03-01,C138,Mataró,Beauty,Face cream,many,21.00,20,33.60,Delivered,2026-03-02,2,Card
+ORD-1047,2026-02-13,C151,Mataró,Clothing,Jacket,1,89.00,0,89.00,Delivered,2026-02-17,5,Bank transfer
+ORD-1048,2026-05-18,C182,Madrid,Electronics,Mouse,1,24.00,10,21.60,Delivered,2026-05-24,3,Bank transfer
+ORD-1049,2026-03-24,C120,Barcelona,Home,Lamp,1,32.00,0,32.00,Delivered,2026-03-25,4,Card
+ORD-1050,2026-01-22,C142,Valencia,Clothing,Jeans,2,€65.00,0,98.00,Cancelled,,,Card
+ORD-1051,2026-03-28,C117,Madrid,Clothing,T-shirt,1,18.50,15,15.72,Delivered,2026-04-02,2,Cash
+ORD-1052,2026-04-29,C160,Sevilla,Electronics,Headphones,1,65.00,0,65.00,Delivered,2026-05-04,5,Bank transfer
+ORD-1053,2026-03-04,C144,Barcelona,Home,Mug,3,12.50,0,37.50,Delivered,2026-03-06,2,Card
+ORD-1054,2026-02-20,C121,Madrid,Beauty,Face cream,1,21.00,0,21.00,Delivered,2026-02-27,4,Bank transfer
+ORD-1055,2026-02-11,C140,Valencia,Electronics,Headphones,2,"24,00",20,104.00,Delivered,2026-02-18,,Card
+ORD-1056,2026-01-27,C184,Mataró,Beauty,Shampoo,1,9.50,20,7.60,Delivered,2026-02-03,2,Card
+ORD-1057,2026-03-13,C178,Mataró,Electronics,Mouse,1,24.00,0,24.00,Returned,2026-03-20,,Card
+ORD-1058,2026-03-31,C161,Barcelona,Electronics,Mouse,1,24.00,10,21.60,Delivered,2026-04-04,4,Bank transfer
+ORD-1059,2026-05-13,C115,Barcelona,Beauty,Shampoo,2,9.50,0,19.00,Returned,2026-05-19,,Bank transfer
+ORD-1060,2026-03-04,C138,Sevilla,Electronics,Mouse,4,-9.50,10,86.40,Delivered,2026-03-10,5,Card
+ORD-1061,2026-01-30,C171,Madrid,Beauty,Face cream,2,21.00,0,42.00,Delivered,2026-02-03,5,Bank transfer
+ORD-1062,2026-01-23,C174,Mataró,Beauty,Shampoo,2,9.50,15,16.15,Delivered,2026-01-26,,Card
+ORD-1063,2026-01-30,C137,Valencia,Clothing,T-shirt,1,18.50,110,18.50,Delivered,2026-02-02,2,Card
+ORD-1064,2026-05-22,C143,Barcelona,Clothing,T-shirt,3,18.50,20,44.40,Cancelled,,,Card
+ORD-1065,2026-05-15,C145,Sevilla,Beauty,Shampoo,1,9.50,0,9.50,Delivered,2026-05-23,,Card
+ORD-1066,2026-04-21,C173,Madrid,Home,Mug,1,12.50,10,11.25,Delivered,2026-04-24,3,Cash
+ORD-1067,2026-02-25,C150,Madrid,Home,Lamp,1,32.00,15,27.20,Returned,2026-02-26,,Bank transfer
+ORD-1068,2026-05-01,C101,Barcelona,Clothing,Jeans,1,49.00,10%,44.10,Delivered,2026-05-08,2,Card
+ORD-1069,2026-01-21,C184,Barcelona,Beauty,Face cream,2,21.00,10,37.80,Delivered,2026-01-28,2,Bank transfer
+ORD-1070,2026-01-24,C123,Valencia,Home,Mug,2,12.50,20,20.00,Delivered,2026-01-30,5,Card
+ORD-1071,2026-02-15,C131,Sevilla,Beauty,Shampoo,2,9.50,15,16.15,Delivered,2026-02-22,2,Card
+ORD-1072,2026/03/14,C163,Sevilla,Clothing,Jeans,1,49.00,0,49.00,Cancelled,,,Bank transfer
+ORD-1073,2026-01-26,C183,Sevilla,Clothing,T-shirt,1,18.50,20,14.80,Returned,2026-01-31,,Card
+ORD-1074,2026-01-24,C146,Sevilla,Beauty,Shampoo,1,9.50,0,9.50,Cancelled,,,Card
+ORD-1075,2026-04-28,C149,Mataró,Beauty,Face cream,1,21.00,0,21.00,Delivered,2026-05-01,5,Card
+ORD-1076,2026-02-30,C138,Sevilla,Clothing,T-shirt,1,18.50,20,14.80,Delivered,2026-03-28,4,Cash
+ORD-1077,2026-04-12,C176,Barcelona,Clothing,Jeans,1,49.00,0,49.00,Delivered,2026-04-18,2,Cash
+ORD-1078,2026-01-01,C109,Valencia,Clothing,Jacket,1,89.00,0,89.00,Cancelled,,,Card
+ORD-1079,2026-02-23,C147,Sevilla,Clothing,Jacket,1,89.00,0,89.00,Returned,2026-03-02,,Cash
+ORD-1080,2026-04-30,C152,Barcelona,Clothing,Jeans,1,49.00,0,49.00,Delivered,2026-05-05,3,Bank transfer
+ORD-1081,2026-02-24,C169,Madrid,Beauty,Face cream,3,21.00,0,63.00,Cancelled,,,Bank transfer
+ORD-1082,2026-01-17,C113,Mataró,Electronics,Mouse,3,24.00,0,72.00,Returned,2026-01-01,,Bank transfer
+ORD-1083,2026-01-29,C105,Mataró,Electronics,Mouse,1,24.00,20,19.20,Delivered,2026-01-30,,Cash
+ORD-1084,2026-04-12,C151,Sevilla,Home,Lamp,2,32.00,20,51.20,Returned,2026-04-20,,Bank transfer
+ORD-1085,2026-04-13,C138,Barcelona,Clothing,T-shirt,1,18.50,0,18.50,Delivered,2026-04-19,4,Cash
+ORD-1086,2026-05-11,C130,Sevilla,Home,Mug,2,12.50,15,21.25,Delivered,2026-05-12,7,Bank transfer
+ORD-1087,2026-05-17,C129,Madrid,Beauty,Face cream,1,21.00,20,16.80,Cancelled,,,Cash
+ORD-1088,2026-02-07,C179,Mataró,Home,Lamp,1,32.00,10,28.80,Cancelled,,,Bank transfer
+ORD-1089,2026-01-25,C147,Madrid,Home,Mug,1,12.50,10,11.25,Delivered,2026-02-02,3,Bank transfer
+ORD-1090,2026-03-15,C139,Valencia,Home,Lamp,1,32.00,20,25.60,Returned,2026-03-19,,Bank transfer
+ORD-1091,2026-01-23,C134,Valencia,Beauty,Face cream,1,21.00,0,999.00,Returned,2026-01-24,,Bank transfer
+ORD-1092,2026-03-25,C154,Barcelona,Beauty,Shampoo,2,9.50,0,19.00,Returned,2026-04-01,,Cash
+ORD-1093,2026-03-04,C151,Sevilla,Clothing,Jeans,2,49.00,10,88.20,Delivered,2026-03-12,,Bank transfer
+ORD-1094,2026-04-03,C148,Barcelona,Home,Mug,2,12.50,15,21.25,Delivered,2026-04-10,4,Cash
+ORD-1095,2026-01-31,C176,Barcelona,Electronics,Mouse,1,24.00,10,,Delivered,2026-02-06,4,Card
+ORD-1096,2026-04-07,C104,Madrid,Home,Mug,2,12.50,0,25.00,Delivered,2026-04-09,5,Bank transfer
+ORD-1097,2026-04-06,C164,Barcelona,Beauty,Face cream,1,21.00,0,21.00,Cancelled,,,Card
+ORD-1098,2026-02-18,C116,Sevilla,Beauty,Face cream,1,21.00,0,21.00,Cancelled,,,Bank transfer
+ORD-1099,2026-01-25,C125,Mataró,Clothing,T-shirt,1,18.50,10,16.65,Delivered,2026-01-30,5,Bank transfer
+ORD-1100,2026-02-08,C169,Sevilla,Beauty,Shampoo,1,9.50,0,9.50,Cancelled,,,Bank transfer
+ORD-1101,2026-05-25,C183,Madrid,Home,T shirt,2,32.00,0,64.00,Delivered,2026-05-31,2,Cash
+ORD-1102,2026-02-28,C166,Sevilla,Clothing,Jacket,1,89.00,10,80.10,Cancelled,,,Cash
+ORD-1103,2026-04-05,C126,Barcelona,Electronics,Headphones,1,65.00,15,55.25,Delivered,2026-04-08,4,Cash
+ORD-1104,2026-02-09,C177,Valencia,Electronics,Mouse,2,24.00,0,48.00,Delivered,2026-02-17,4,Bank transfer
+ORD-1105,2026-04-18,C177,Sevilla,Beauty,Shampoo,1,9.50,0,9.50,Cancelled,,,Cash
+ORD-1106,2026-04-09,C127,Mataró,Home,Lamp,2,32.00,20,51.20,Pending,2026-04-16,3,Card
+ORD-1107,2026-01-18,C168,Madrid,Clothing,Jacket,1,89.00,0,89.00,Cancelled,,,Card
+ORD-1108,2026-02-17,C168,Sevilla,Home,Mug,2,12.50,20,20.00,Delivered,2026-02-22,4,Bank transfer
+ORD-1109,2026-05-12,C107,Sevilla,Home,Mug,1,12.50,15,10.62,Delivered,2026-05-15,5,Card
+ORD-1110,2026-02-01,C130,Madrid,Clothing,Jacket,1,89.00,0,89.00,Returned,2026-02-03,,Cash
+ORD-1111,2026-05-01,C170,Mataró,Beauty,Face cream,1,1200.00,0,21.00,Delivered,2026-05-07,2,Bank transfer
+ORD-1112,2026-03-23,C117,Mataró,Beauty,Face cream,1,21.00,20,16.80,Cancelled,,,Cash
+ORD-1113,2026-04-27,C172,Madrid,Beauty,Shampoo,1,9.50,0,9.50,Delivered,2026-04-29,,Card
+ORD-1114,2026-03-14,C159,Barcelona,Home,Lamp,3,32.00,0,96.00,Delivered,2026-03-15,5,Bank transfer
+ORD-1115,2026-02-06,C173,Sevilla,Electronics,Mouse,1,24.00,20,19.20,Delivered,2026-02-12,3,Bank transfer
+ORD-1116,2026-05-22,C125,Valencia,Clothing,T-shirt,1,18.50,0,18.50,Delivered,2026-05-26,4,Bank transfer
+ORD-1117,2026-05-03,C143,Mataró,Electronics,Mouse,2,24.00,0,48.00,Delivered,2026-05-04,2,Cash
+ORD-1118,2026-01-01,C115,Mataró,Clothing,Jacket,1,89.00,20,71.20,Delivered,2026-01-03,3,Bank transfer
+ORD-1119,2026-03-27,C159,Sevilla,Clothing,Jacket,25,89.00,0,89.00,Delivered,2026-04-03,5,Card
+ORD-1120,2026-01-02,C185,Barcelona,Beauty,Shampoo,1,9.50,0,9.50,Delivered,2026-01-04,5,Card
+ORD-1121,2026-05-02,C146,Sevilla,Beauty,Face cream,1,21.00,0,21.00,Delivered,2026-05-10,5,Card
+ORD-1122,2026-02-01,C170,Sevilla,Home,Lamp,1,32.00,20,25.60,Cancelled,,,Card
+ORD-1123,2026-02-21,C178,Madrid,Beauty,Face cream,3,21.00,10,56.70,Delivered,2026-02-24,4,Card
+ORD-1124,2026-05-27,C164,Unknown,Clothing,T-shirt,2,18.50,0,37.00,Delivered,2026-06-01,2,Card
+ORD-1125,2026-01-15,C153,Mataró,Home,Mug,1,12.50,0,12.50,Delivered,2026-01-23,3,Card
+ORD-1126,2026-02-11,C124,Sevilla,Clothing,Jeans,2,49.00,15,83.30,Returned,2026-02-15,,Cash
+ORD-1127,2026-04-03,C169,Mataró,Beauty,Face cream,1,21.00,0,21.00,Delivered,2026-04-05,3,Cash
+ORD-1128,2026-01-19,C147,Sevilla,Clothing,T-shirt,2,18.50,0,37.00,Delivered,2026-01-23,,Bank transfer
+ORD-1129,2026-03-23,C130,Valencia,Beauty,Face cream,1,21.00,0,21.00,Delivered,2026-03-31,,Card
+ORD-1130,2026-04-13,,Valencia,Beauty,Shampoo,3,9.50,0,28.50,Delivered,2026-04-21,4,Bank transfer
+ORD-1131,2026-05-30,C134,Madrid,Clothing,Jacket,2,89.00,15,151.30,Delivered,2026-06-06,5,Bank transfer
+ORD-1132,2026-02-07,C145,Madrid,Home,Lamp,1,32.00,0,32.00,Delivered,2026-02-11,,Cash
+ORD-1133,2026-01-07,C115,Mataró,Beauty,Shampoo,2,9.50,15,16.15,Delivered,2026-01-09,2,Cash
+ORD-1134,2026-04-28,C174,Barcelona,Electronics,Headphones,1,65.00,0,65.00,Delivered,2026-05-06,5,Bank transfer
+ORD-1135,2026-04-24,C132,Sevilla,Clothing,T-shirt,2,18.50,0,37.00,Returned,2026-04-29,not rated,Card
+ORD-1136,2026-03-02,C168,Mataró,Electronics,Mouse,2,24.00,0,48.00,Returned,2026-03-08,,Card
+ORD-1137,2026-03-05,C123,Mataró,Electronics,Mouse,1,24.00,0,24.00,Delivered,2026-03-08,2,Bank transfer
+ORD-1138,2026-01-16,C123,Madrid,Beauty,Shampoo,1,9.50,0,9.50,Delivered,2026-01-19,4,Bank transfer
+ORD-1139,2026-01-24,C137,Sevilla,Clothing,Jacket,2,89.00,0,178.00,Returned,2026-01-28,,Cash
+ORD-1140,2026-03-24,C107,Valencia,Clothing,T-shirt,1,18.50,,15.72,Delivered,2026-03-29,5,Bank transfer
+ORD-1141,2026-02-19,C126,Mataró,Beauty,Shampoo,1,9.50,0,9.50,Delivered,2026-02-20,4,Cash
+ORD-1142,2026-04-10,C161,Barcelona,Electronics,Headphones,2,65.00,0,130.00,Returned,2026-04-16,,Bank transfer
+ORD-1143,2026-03-25,C167,Madrid,Clothing,T-shirt,3,18.50,15,47.17,Delivered,2026-03-29,5,Bank transfer
+ORD-1144,2026-04-21,C123,Mataró,Electronics,Mouse,1,24.00,0,24.00,Cancelled,,,Card
+ORD-1145,2026-03-07,C104,Sevilla,Clothing,Jacket,2,89.00,20,142.40,Cancelled,2026-05-01,,Bank transfer
+ORD-1146,2026-03-26,C103,Madrid,Home,Lamp,2,32.00,0,64.00,Cancelled,,,Cash
+ORD-1147,2026-04-23,C137,Sevilla,Beauty,Shampoo,3,9.50,0,28.50,Delivered,2026-05-01,2,Card
+ORD-1148,2026-04-28,C104,Valencia,Home,Lamp,1,32.00,0,32.00,Delivered,2026-04-30,2,Bank transfer
+ORD-1149,2026-05-21,C143,Mataró,Clothing,Jeans,1,49.00,0,49.00,Delivered,2026-05-22,4,Card
+ORD-1150,2026-03-09,C180,Sevilla,Clothing,Jacket,2,89.00,10,160.20,Cancelled,,,CARD
+ORD-1151,2026-02-10,C135,Sevilla,Beauty,Face cream,1,21.00,10,18.90,Delivered,2026-02-11,3,Bank transfer
+ORD-1152,2026-02-17,C176,Sevilla,Clothing,T-shirt,2,18.50,20,29.60,Delivered,2026-02-20,5,Cash
+ORD-1153,2026-02-27,C172,Barcelona,Clothing,T-shirt,1,18.50,20,14.80,Delivered,2026-03-06,2,Card
+ORD-1154,2026-01-16,C146,Mataró,Electronics,Headphones,1,65.00,0,65.00,Delivered,2026-01-19,2,Card
+ORD-1155,2026-04-06,C113,Sevilla,Home,Mug,1,12.50,0,12.50,Cancelled,,,Bank transfer
+ORD-1156,2026-02-27,C162,Madrid,Electronics,Headphones,3,65.00,0,195.00,Cancelled,,,Cash
+ORD-1157,2026-04-16,C131,Sevilla,Beauty,Face cream,1,21.00,15,17.85,Cancelled,,,Bank transfer
+ORD-1158,2026-01-09,C157,Valencia,Electronics,Mouse,1,24.00,10,21.60,Cancelled,,,Bank transfer
+ORD-1159,2026-03-12,C134,Mataró,Beauty,Shampoo,1,9.50,15,8.07,Delivered,2026-03-17,2,Card
+ORD-1160,2026-05-20,C143,Barcelona,Home,Mug,1,12.50,15,10.62,Delivered,2026-05-27,3,Bank transfer
+ORD-1013,2026-02-16,C103,Madrid,Clothing,Jeans,1,49.00,0,49.00,Returned,2026-02-22,,Card
+ORD-1032,2026-03-27,C179,Sevilla,Beauty,Shampoo,1,9.50,15,8.07,Delivered,2026-03-30,4,Cash
